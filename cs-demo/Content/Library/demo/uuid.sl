@@ -1,13 +1,10 @@
 ########################################################################################################################
 #!!
-#! @description: Generated operation description
+#! @description: Generated random id
 #!
-#! @input input_1: Generated description
-#! @input input_2: Generated description
-#! @output output_1: Generated description
+#! @output uuid: generated id
 #! @result SUCCESS: Operation completed successfully.
-#! @result FAILURE: Failure occured during execution.
-#!!#
+#! #!!#
 ########################################################################################################################
 
 namespace: io.cloudslang.demo
